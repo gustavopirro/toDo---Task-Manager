@@ -1,4 +1,4 @@
-To Do made with Vanilla Javascript, HTML and CSS
+Task Manager App made with Vanilla Javascript, HTML and CSS
 
 How to use:
 ```bash
